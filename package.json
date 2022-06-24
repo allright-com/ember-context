@@ -1,11 +1,14 @@
 {
-  "name": "@alexlafroscia/ember-context",
+  "name": "@allright-com/ember-context",
   "version": "1.0.1",
   "description": "Consume values from elsewhere in your Ember application",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "git://github.com/alexlafroscia/ember-context.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:allright-com/ember-context.git"
+  },
   "license": "MIT",
   "author": "",
   "directories": {
