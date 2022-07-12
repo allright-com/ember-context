@@ -1,6 +1,6 @@
 {
   "name": "@allright-com/ember-context",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Consume values from elsewhere in your Ember application",
   "keywords": [
     "ember-addon"

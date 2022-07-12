@@ -7,7 +7,7 @@ export const LATEST_INSTANCE_MAP = new Map();
 export const LAST_CONTEXT_VALUE = new WeakMap();
 
 export default class ContextComponentManager {
-  capabilities = capabilities('3.13', {
+  capabilities = capabilities('3.22', {
     destructor: true,
     asyncLifecycleCallbacks: false,
     updateHook: true,
