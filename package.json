@@ -7,7 +7,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:allright-com/ember-context.git"
+    "url": "https://github.com/allright-com/ember-context.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "license": "MIT",
   "author": "",
